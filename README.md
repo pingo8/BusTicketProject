@@ -66,3 +66,5 @@ When the program is run again, saved purchases are loaded automatically.
 ### What could be improved
 - Add the ability to edit or delete items from the cart.
 - Improve the user interface for better usability.# bus-ticket-project
+
+Project completed and ready for submission.
